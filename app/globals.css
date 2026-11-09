@@ -58,3 +58,19 @@ h1,h2,h3,p{margin:0}h1,h2{font-family:var(--serif);font-weight:500;line-height:1
 .menu-toggle:active,.close:active,.lightbox button:active{transform:scale(.98)}
 @media(max-width:760px){.nav-dialog{width:calc(100vw - 24px);max-width:none;padding:20px;max-height:calc(100dvh - 24px)}.nav-dialog nav{margin-block:22px}.nav-dialog nav a{font-size:25px;padding-block:11px}.dialog-brand{padding-top:16px}.close{min-height:44px}.gallery-caption{align-items:flex-start}}
 @media(prefers-reduced-motion:reduce){.nav-dialog,.lightbox,.nav-dialog nav a,.ui-icon{animation:none!important;transition:none!important;transform:none!important}.nav-dialog[open] nav a{opacity:1}}
+
+/* Keep pointer-opened navigation free of a focus ring; controls retain keyboard focus. */
+.nav-dialog:focus{outline:none}
+.intro-strip{grid-template-columns:1.5fr 1fr}
+.hero-ueber-uns h1{max-width:22ch}
+.founders{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,410px);gap:clamp(32px,6vw,80px);align-items:start;margin-bottom:64px}
+.founders .prose{margin:0;max-width:none}
+.founders .photo-gastgeber{aspect-ratio:820/1205;height:auto}
+.founders .photo-gastgeber img{object-fit:contain}
+.hotel-room{margin-block:64px;padding-top:32px;border-top:1px solid var(--line)}
+.hotel-room .prose{margin-left:0}
+.room-photos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;margin-top:28px}
+.room-photos a{display:block}
+.room-photos img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
+.room-photos a:only-child{grid-column:span 2}
+@media(max-width:760px){.intro-strip,.founders{grid-template-columns:1fr}.founders .photo-gastgeber{max-width:410px;margin:auto}.room-photos{grid-template-columns:1fr}.room-photos a:only-child{grid-column:auto}}
