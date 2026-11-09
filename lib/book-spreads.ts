@@ -1,15 +1,13 @@
-/** Zero-based menu-page indexes; null represents the inside cover. */
-export type BookSpread = {left:number|null;right:number|null};
+/** Zero-based menu-page indexes. The final opening can have one page. */
+export type BookSpread = {left: number; right: number | null};
 
-export function getBookSpreads(pageCount:number):BookSpread[]{
-  if(pageCount<=0)return [];
-  return Array.from({length:Math.floor(pageCount/2)+1},(_,index)=>({
-    left:index===0?null:index*2-1,
-    right:index*2<pageCount?index*2:null,
+export function getBookSpreads(pageCount: number): BookSpread[] {
+  return Array.from({length: Math.ceil(Math.max(0, pageCount) / 2)}, (_, index) => ({
+    left: index * 2,
+    right: index * 2 + 1 < pageCount ? index * 2 + 1 : null,
   }));
 }
 
-/** Locate a menu page without changing its original sequence. */
-export function spreadForPage(pageIndex:number):number{
-  return Math.floor((pageIndex+1)/2);
+export function spreadForPage(pageIndex: number): number {
+  return Math.floor(pageIndex / 2);
 }

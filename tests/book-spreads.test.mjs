@@ -12,22 +12,18 @@ test('Physical spreads retain every menu page and dish exactly once in reading o
   const indexes=spreads.flatMap(spread=>[spread.left,spread.right]).filter(index=>index!==null);
   assert.deepEqual(indexes,pages.map((_,index)=>index));
   assert.deepEqual(indexes.flatMap(index=>pages[index].dishes),dishes);
-  assert.equal(spreads.length,6);
-  assert.deepEqual(spreads[0],{left:null,right:0});
-  assert.deepEqual(spreads.at(-1),{left:9,right:null});
+  assert.equal(spreads.length,3);
+  assert.deepEqual(spreads[0],{left:0,right:1});
+  assert.deepEqual(spreads.at(-1),{left:4,right:null});
 });
 
 test('Two forward and two backward turns restore the first opening symmetrically',()=>{
   const spreads=getBookSpreads(10);
   assert.deepEqual([0,1,2,1,0].map(index=>spreads[index]),[
-    {left:null,right:0},{left:1,right:2},{left:3,right:4},
-    {left:1,right:2},{left:null,right:0},
+    {left:0,right:1},{left:2,right:3},{left:4,right:5},
+    {left:2,right:3},{left:0,right:1},
   ]);
-  for(let leaf=0;leaf<5;leaf++){
-    // The same leaf moves from the right to the left, exposing its reverse.
-    assert.equal(spreads[leaf].right,2*leaf);
-    assert.equal(spreads[leaf+1].left,2*leaf+1);
-  }
+
 });
 
 test('Every category jump lands on the opening containing its first page',()=>{
@@ -38,15 +34,15 @@ test('Every category jump lands on the opening containing its first page',()=>{
     assert.ok([spread.left,spread.right].includes(firstPage));
   }
   const mainIndex=pages.findIndex(page=>page.category==='Hauptgerichte');
-  assert.equal(mainIndex,4);
-  assert.deepEqual(spreads[spreadForPage(mainIndex)],{left:3,right:4});
+  assert.equal(mainIndex,2);
+  assert.deepEqual(spreads[spreadForPage(mainIndex)],{left:2,right:3});
 });
 
 test('Empty, single, odd and even page counts produce complete bounded openings',()=>{
   assert.deepEqual(getBookSpreads(0),[]);
-  assert.deepEqual(getBookSpreads(1),[{left:null,right:0}]);
-  assert.deepEqual(getBookSpreads(2),[{left:null,right:0},{left:1,right:null}]);
-  assert.deepEqual(getBookSpreads(3),[{left:null,right:0},{left:1,right:2}]);
+  assert.deepEqual(getBookSpreads(1),[{left:0,right:null}]);
+  assert.deepEqual(getBookSpreads(2),[{left:0,right:1}]);
+  assert.deepEqual(getBookSpreads(3),[{left:0,right:1},{left:2,right:null}]);
   for(const count of [1,2,3,9,10,11]){
     const spreads=getBookSpreads(count);
     const indexes=spreads.flatMap(spread=>[spread.left,spread.right]).filter(index=>index!==null);

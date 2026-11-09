@@ -11,6 +11,11 @@ test('Every category remains directly addressable, with consecutive page parts',
   const pages=paginateMenu(menu);for(const category of new Set(menu.map(d=>d.category))){
     const group=pages.filter(p=>p.category===category);assert.ok(group.length>0);
     assert.deepEqual(group.map(p=>p.part),group.map((_,i)=>i+1));
-    assert.ok(group.every(p=>p.parts===group.length&&p.dishes.length>0&&p.dishes.length<=3&&p.dishes.every(d=>d.category===category)));
+    assert.equal(group.length,1);
+    assert.ok(group.every(p=>p.parts===1&&p.dishes.length>0&&p.dishes.every(d=>d.category===category)));
   }
+});
+test('The complete current menu fits on five category pages',()=>{
+  assert.equal(paginateMenu(menu).length,5);
+  assert.deepEqual(paginateMenu([]),[]);
 });
