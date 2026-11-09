@@ -16,7 +16,7 @@ export function HotelRooms() {
     const details = texts.hotel.slice(start + 1, starts[index + 1]);
     return <section className="hotel-room" key={title}>
       <div className="prose"><h3>{title}</h3><ul>{details.map(block => <li key={block.text}>{block.text}</li>)}</ul></div>
-      <div className="room-photos">{photos[index].map((photo, photoIndex) => <a href={photo.src} key={photo.src} target="_blank" rel="noreferrer" aria-label={`${title}, Aufnahme ${photoIndex + 1} in voller Größe öffnen`}><Image src={photo} alt={`${title} – ${photoIndex === 2 ? 'Badezimmer mit Dusche' : `Originalaufnahme ${photoIndex + 1}`}`} sizes="(max-width:760px) 90vw, 40vw"/></a>)}</div>
+      <div className="room-photos">{photos[index].map((photo, photoIndex) => <a href={photo.src} key={photo.src} target="_blank" rel="noreferrer" aria-label={`${title}, Aufnahme ${photoIndex + 1} in voller Größe öffnen`}><Image src={photo} alt={`${title} – ${`Originalaufnahme ${photoIndex + 1}`}`} sizes="(max-width:760px) 90vw, 40vw"/></a>)}</div>
       <a className="text-link" href={links.booking}>Zimmer buchen</a>
     </section>;
   });
