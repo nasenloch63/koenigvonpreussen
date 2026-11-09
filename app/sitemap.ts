@@ -1,0 +1,1 @@
+import {base,routes} from '@/lib/content';export default function sitemap(){return routes.map(r=>({url:base+'/'+(r?r+'/':'')}))}

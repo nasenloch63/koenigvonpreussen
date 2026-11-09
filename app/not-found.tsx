@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function NotFound(){return <main id="inhalt" className="wrap not-found"><span className="eyebrow">404</span><h1>Hier geht’s<br/>zurück nach Helsa.</h1><p>Diese Seite ist nicht verfügbar.</p><Link className="button" href="/">Zur Startseite</Link></main>}

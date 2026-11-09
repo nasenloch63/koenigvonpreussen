@@ -1,0 +1,238 @@
+{
+  "hotel": [
+    {
+      "tag": "p",
+      "text": "Übernachten Sie dort, wo Geschichte und Komfort aufeinandertreffen. Unser Landgasthof bietet Ihnen nicht nur ein Zimmer, sondern ein Erlebnis."
+    },
+    {
+      "tag": "h2",
+      "text": "Unsere Zimmer"
+    },
+    {
+      "tag": "p",
+      "text": "Erleben Sie einen erholsamen Aufenthalt in unseren stilvoll gestalteten Hotelzimmern, die den Charme des historischen Gebäudes mit modernem Komfort vereinen. Jedes der zehn Zimmer im „König von Preußen“ wurde liebevoll renoviert, um Ihnen ein einzigartiges Ambiente zu bieten."
+    },
+    {
+      "tag": "p",
+      "text": "Unsere Zimmer sind der perfekte Rückzugsort nach einem Tag voller Entdeckungen in der Region Kassel oder nach einem Besuch in unserem Restaurant. Ob Sie auf Geschäftsreise sind, einen romantischen Kurzurlaub planen oder die Region zu Fuß oder auf dem Rad erkunden – bei uns finden Sie die passende Unterkunft. Lassen Sie sich von der Geschichte des Hauses inspirieren und genießen Sie die warme Gastfreundschaft, die uns am Herzen liegt."
+    },
+    {
+      "tag": "p",
+      "text": "“Alte Mauern – neue Erinnerungen!”"
+    },
+    {
+      "tag": "h2",
+      "text": "Zeitlos, stilvoll und gemütlich"
+    },
+    {
+      "tag": "h3",
+      "text": "Doppelzimmer (auch als EZ)"
+    },
+    {
+      "tag": "li",
+      "text": "Geräumiges Zimmer (25-27qm)"
+    },
+    {
+      "tag": "li",
+      "text": "Doppelbett 1,80×2,00 m"
+    },
+    {
+      "tag": "li",
+      "text": "Badezimmer mit bodengleicher Regendusche"
+    },
+    {
+      "tag": "li",
+      "text": "Kostenloses HighSpeed-WLAN"
+    },
+    {
+      "tag": "li",
+      "text": "Flat-Screen-TV"
+    },
+    {
+      "tag": "h3",
+      "text": "Dreibettzimmer"
+    },
+    {
+      "tag": "li",
+      "text": "Geräumiges Zimmer (30qm)"
+    },
+    {
+      "tag": "li",
+      "text": "Doppelbett 1,80×2,00 m"
+    },
+    {
+      "tag": "li",
+      "text": "Einzelbett 0,90×2,00 m"
+    },
+    {
+      "tag": "li",
+      "text": "Badezimmer mit bodengleicher Regendusche"
+    },
+    {
+      "tag": "li",
+      "text": "Kostenloses HighSpeed-WLAN"
+    },
+    {
+      "tag": "li",
+      "text": "Flat-Screen-TV"
+    },
+    {
+      "tag": "h3",
+      "text": "Familienzimmer"
+    },
+    {
+      "tag": "li",
+      "text": "Geräumiges Zimmer (36qm)"
+    },
+    {
+      "tag": "li",
+      "text": "Doppelbett 1,80×2,00 m"
+    },
+    {
+      "tag": "li",
+      "text": "Zusätzliches Doppelstockbett oder zwei zusätzliche Einzelbetten"
+    },
+    {
+      "tag": "li",
+      "text": "Eigenes Badezimmer mit bodengleicher Regendusche"
+    },
+    {
+      "tag": "li",
+      "text": "Kostenloses HighSpeed-WLAN"
+    },
+    {
+      "tag": "li",
+      "text": "Flat-Screen-TV"
+    }
+  ],
+  "jobs": [
+    {
+      "tag": "h2",
+      "text": "Wir stellen ein:"
+    },
+    {
+      "tag": "p",
+      "text": "Koch Voll-/Teilzeit (m/w/d)"
+    },
+    {
+      "tag": "p",
+      "text": "Servicekraft Voll-/Teilzeit (m/w/d)"
+    },
+    {
+      "tag": "h2",
+      "text": "Wir bilden aus:"
+    },
+    {
+      "tag": "p",
+      "text": "Hotelfachmann/-frau (m/w/d)"
+    },
+    {
+      "tag": "p",
+      "text": "Koch (m/w/d)"
+    },
+    {
+      "tag": "h2",
+      "text": "Was wir bieten:"
+    },
+    {
+      "tag": "li",
+      "text": "Fairer Lohn Wir legen großen Wert auf eine faire und leistungsgerechte Bezahlung"
+    },
+    {
+      "tag": "li",
+      "text": "Gutes Betriebsklima Ein kollegiales und wertschätzendes Umfeld, in dem Teamarbeit großgeschrieben wird"
+    },
+    {
+      "tag": "li",
+      "text": "Gestaltungsspielraum Du hast die Möglichkeit, dich einzubringen und den Landgasthof mit uns gemeinsam zu einem Ort zu machen, an dem sich Gäste und Mitarbeiter gleichermaßen wohlfühlen"
+    },
+    {
+      "tag": "li",
+      "text": "Entwicklungsmöglichkeiten Wir unterstützen deine berufliche Weiterentwicklung und bieten dir Perspektiven in einem wachsenden Betrieb"
+    }
+  ],
+  "restaurant": [
+    {
+      "tag": "p",
+      "text": "Hier verbinden wir traditionelle Rezepte mit modernen Akzenten, um Ihnen ein unvergessliches kulinarisches Erlebnis zu bieten."
+    },
+    {
+      "tag": "h2",
+      "text": "Restaurant"
+    },
+    {
+      "tag": "p",
+      "text": "Unser Restaurant im „König von Preußen“ ist mehr als nur ein Ort zum Essen – es ist ein Treffpunkt für Genießer und Liebhaber regionaler Küche. Hier verbinden wir traditionelle Rezepte mit modernen Akzenten. Unser Küchenchef Piet Egert, ein junger, talentierter Koch mit einer Leidenschaft für regionale und saisonale Zutaten, hat es sich zur Aufgabe gemacht, die Geschichte unseres Hauses auch in der Küche weiterzuschreiben."
+    },
+    {
+      "tag": "p",
+      "text": "Die historische Atmosphäre unseres Gasthauses, dessen gastronomische Historie bis ins Jahr 1904 zurückreicht, schafft dabei den perfekten Rahmen für Ihren Besuch. Ob bei einem gemütlichen Abendessen, einem besonderen Anlass oder einfach, um die Gemeinschaft bei einem guten Glas Wein zu genießen – wir heißen Sie herzlich willkommen."
+    },
+    {
+      "tag": "h2",
+      "text": "Biergarten"
+    },
+    {
+      "tag": "p",
+      "text": "Unser stimmungsvoller Biergarten im Schatten der großen, alten Kastanie ist in den Monaten Mai bis August bei schönem Wetter geöffnet."
+    },
+    {
+      "tag": "p",
+      "text": "Genießen Sie unser Speisen- und Getränkeangebot in entspannter Atmosphäre an der frischen Luft."
+    },
+    {
+      "tag": "p",
+      "text": "Spielmöglichkeiten für Kinder und sichere Abstellplätze für Fahrräder in Sichtweite runden das Angebot ab."
+    },
+    {
+      "tag": "h2",
+      "text": "Für jeden Geschmack das Richtige."
+    },
+    {
+      "tag": "p",
+      "text": "Hier treffen altehrwürdige Rezepte auf moderne Interpretationen. Frische, regionale Zutaten, gepaart mit kreativem Handwerk, sorgen dafür, dass Sie Ihren Aufenthalt bei uns genießen. Ob Sie die traditionellen hessischen Spezialitäten oder die innovativen Kreationen unserer Küche genießen – bei uns finden Sie die Balance zwischen Vergangenheit und Gegenwart."
+    }
+  ],
+  "ueber-uns": [
+    {
+      "tag": "p",
+      "text": "Die Geschichte des „König von Preußen“ ist eng mit der Geschichte der Gemeinde Helsa verbunden."
+    },
+    {
+      "tag": "h2",
+      "text": "Wir über uns"
+    },
+    {
+      "tag": "p",
+      "text": "Tim Egert ist als Eventmanager vor allem für die Organisation von Veranstaltungen und die Leitung des Betriebs verantwortlich. Ihm liegt es am Herzen, dass jeder Gast, der unseren Landgasthof betritt, sich sofort willkommen fühlt und den Aufenthalt bei uns in vollen Zügen genießen kann. Veranstaltungen im König von Preußen sollen unvergesslich sein, egal ob es sich um eine Hochzeit, ein Firmenjubiläum oder ein gemütliches Beisammensein handelt. Sein Ziel ist es, einen Ort zu schaffen, an dem Erinnerungen gemacht werden."
+    },
+    {
+      "tag": "p",
+      "text": "Sein Bruder Piet Egert ist der kreative Kopf in der Küche. Schon früh hat er seine Leidenschaft für das Kochen entdeckt und ist heute ein innovativer Koch, der Tradition und Moderne auf beeindruckende Weise verbindet. Für Piet ist Kochen mehr als ein Beruf – es ist seine Berufung. Mit seiner Liebe zu frischen, regionalen Zutaten und seiner Experimentierfreude sorgt er als Küchenchef dafür, dass unsere Gäste kulinarisch auf höchstem Niveau verwöhnt werden. Jeder Teller, der unsere Küche verlässt, erzählt eine Geschichte – die Geschichte von Tradition, Handwerk und Leidenschaft."
+    },
+    {
+      "tag": "h2",
+      "text": "Herzensprojekt"
+    },
+    {
+      "tag": "p",
+      "text": "Gemeinsam haben wir uns das Ziel gesetzt, den Landgasthof König von Preußen zu einem Ort zu machen, an dem sich Tradition und Moderne harmonisch verbinden, wo Gäste nicht nur essen und schlafen, sondern eine besondere Zeit erleben. Wir sind stolz darauf, Teil der reichen Geschichte dieses Hauses zu sein und gleichzeitig eine neue, aufregende Ära einzuleiten."
+    },
+    {
+      "tag": "p",
+      "text": "Unser Engagement für Gastfreundschaft geht über das übliche Maß hinaus. Wir möchten, dass jeder Aufenthalt in unserem Landgasthof ein Erlebnis wird, das in Erinnerung bleibt. Dafür setzen wir nicht nur unser Wissen und unsere Fähigkeiten ein, sondern auch unser Herzblut. Kommen Sie vorbei und lassen Sie sich von unserer Begeisterung anstecken – wir freuen uns darauf, Sie bei uns im Landgasthof König von Preußen willkommen zu heißen."
+    },
+    {
+      "tag": "p",
+      "text": "“Gastgeber mit Leib und Seele”"
+    },
+    {
+      "tag": "h2",
+      "text": "Historie"
+    },
+    {
+      "tag": "p",
+      "text": "Die Geschichte des „König von Preußen“ ist eng mit der Geschichte der Gemeinde Helsa verbunden. Nach Jahren des Verfalls wurde das denkmalgeschützte Gebäude dank der unermüdlichen Anstrengungen des Vereins für Denkmalpflege Helsa e.V. in seiner ursprünglichen Pracht wiederhergestellt. Dieser Verein, gegründet im Jahr 2012, setzte sich das Ziel, das historische Gebäude vor dem Verfall zu retten und es wieder zu einem lebendigen Teil der Dorfgemeinschaft zu machen."
+    }
+  ]
+}

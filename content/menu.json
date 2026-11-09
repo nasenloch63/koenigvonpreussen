@@ -1,0 +1,266 @@
+[
+  {
+    "category": "Suppen",
+    "name": "Kartoffelcreme-Suppe  klein | groß",
+    "description": "Lauch-Öl I Croutons – vegetarisch, vegan möglich",
+    "price": "7,00€ | 9,00€",
+    "sourcePrice": "7,00€ | 9,00€",
+    "labels": [
+      "vegetarisch",
+      "vegan möglich"
+    ],
+    "variant": "klein | groß"
+  },
+  {
+    "category": "Suppen",
+    "name": "Rinderkraftbrühe klein | groß",
+    "description": "Schnittlauch I Grießklößchen",
+    "price": "7,00€ | 9,00€",
+    "sourcePrice": "7,00€ | 9,00€",
+    "labels": [],
+    "variant": "klein | groß"
+  },
+  {
+    "category": "Vorspeisen, Salate und kleine Gerichte",
+    "name": "Kleiner Salat der Saison",
+    "description": "geröstete Kerne I Knäckebrot I Gemüse | Vinaigrette – vegan",
+    "price": "5,00€",
+    "sourcePrice": "5,00€",
+    "labels": [
+      "vegan"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Vorspeisen, Salate und kleine Gerichte",
+    "name": "Großer Salat der Saison",
+    "description": "geröstete Kerne I Knäckebrot I Gemüse | Vinaigrette – vegan",
+    "price": "9,00€",
+    "sourcePrice": "9,00€",
+    "labels": [
+      "vegan"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Vorspeisen, Salate und kleine Gerichte",
+    "name": "Großer Salat der Saison + gebratener Lachs",
+    "description": "geröstete Kerne I Knäckebrot I Gemüse | Vinaigrette",
+    "price": "18,00€",
+    "sourcePrice": "18,00€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Vorspeisen, Salate und kleine Gerichte",
+    "name": "Großer Salat der Saison + Entrecôte-Streifen",
+    "description": "geröstete Kerne I Knäckebrot I Gemüse | Vinaigrette",
+    "price": "21,00€",
+    "sourcePrice": "21,00€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Vorspeisen, Salate und kleine Gerichte",
+    "name": "Feldsalat an Schmanddressing klein | groß",
+    "description": "Datteln I Speck – vegetarisch möglich",
+    "price": "7,00€ | 10,00€",
+    "sourcePrice": "7,00€ | 10,00€",
+    "labels": [
+      "vegetarisch möglich"
+    ],
+    "variant": "klein | groß"
+  },
+  {
+    "category": "Vorspeisen, Salate und kleine Gerichte",
+    "name": "Lachs-Tatar",
+    "description": "Brioche I Rettich I Rote Beete",
+    "price": "16,00€",
+    "sourcePrice": "16,00€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Vorspeisen, Salate und kleine Gerichte",
+    "name": "Beete Beete Beete",
+    "description": "Rote-Beete-Carpaccio I Geschmorte Gelbe Beete I Ringelbeete | Blauschimmelkäse I Walnüsse – vegetarisch, vegan möglich",
+    "price": "13,00€",
+    "sourcePrice": "13,00€",
+    "labels": [
+      "vegetarisch",
+      "vegan möglich"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Vorspeisen, Salate und kleine Gerichte",
+    "name": "Geräucherte Entenbrust",
+    "description": "Rotkohl-Panna Cotta I Wirsingsalat I Jus",
+    "price": "16,00€",
+    "sourcePrice": "16,00€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Vorspeisen, Salate und kleine Gerichte",
+    "name": "Gebratener Grünkohl",
+    "description": "Rote Zwiebelmarmelade I Selleriepüree I Kürbispüree – vegan",
+    "price": "13,00€",
+    "sourcePrice": "13,00€",
+    "labels": [
+      "vegan"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Hauptgerichte",
+    "name": "Zwiebelrostbraten vom Rib-Eye-Steak",
+    "description": "Serviettenknödel I Dunkelbier-Zwiebeln I Rosenkohl",
+    "price": "32,00€",
+    "sourcePrice": "32,00€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Hauptgerichte",
+    "name": "1⁄4 Gans",
+    "description": "Kartoffelklöße I Gänse-Jus I Apfel-Rotkohl und/oder Grünkohl",
+    "price": "39,00€",
+    "sourcePrice": "39,00€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Hauptgerichte",
+    "name": "Lachs",
+    "description": "Selleriepüree I Winterliche Zitrus-Sauce I Gebratener Fenchel",
+    "price": "26,00€",
+    "sourcePrice": "26,00€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Hauptgerichte",
+    "name": "Rinderrouladen",
+    "description": "Grünkohl I Kartoffelpüree I Dunkelbier-Jus",
+    "price": "27,00€",
+    "sourcePrice": "27,00€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Hauptgerichte",
+    "name": "Wildgulasch vom Kaufunger Wald",
+    "description": "Hausgemachte Knöpfle I Rotkohl",
+    "price": "26,00€",
+    "sourcePrice": "26,00€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Hauptgerichte",
+    "name": "Hausgemachte Käsespätzle",
+    "description": "Röstzwiebeln I Bergkäse I Schnittlauch – vegetarisch",
+    "price": "19,00€",
+    "sourcePrice": "19,00€",
+    "labels": [
+      "vegetarisch"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Hauptgerichte",
+    "name": "Serviettenknödel",
+    "description": "Kräuter-Crème fraîche I Pilzrahmsauce – vegetarisch",
+    "price": "18,00€",
+    "sourcePrice": "18,00€",
+    "labels": [
+      "vegetarisch"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Hauptgerichte",
+    "name": "Teriyaki Spitzkohl",
+    "description": "Pastinakenpüree I Sriracha I Sprossen – vegan",
+    "price": "16,00€",
+    "sourcePrice": "16,00€",
+    "labels": [
+      "vegan"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Schnitzelgerichte",
+    "name": "Original Wiener Schnitzel vom Kalb",
+    "description": "Hausgemachter Kartoffelsalat I Preiselbeeren I Zitrone",
+    "price": "29,00€",
+    "sourcePrice": "29,00€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Schnitzelgerichte",
+    "name": "Hessisches Schmandschnitzel",
+    "description": "Pommes | Schmand-Soße | Zitrone",
+    "price": "19,90€",
+    "sourcePrice": "19,90€",
+    "labels": [],
+    "variant": null
+  },
+  {
+    "category": "Dessert",
+    "name": "Crème Brûlée Kardamom-Karamel",
+    "description": "vegetarisch",
+    "price": "7,00€",
+    "sourcePrice": "7,00€",
+    "labels": [
+      "vegetarisch"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Dessert",
+    "name": "Spekulatius Mousse",
+    "description": "Vanille-Creme I Bratapfel | Walnüsse – vegetarisch",
+    "price": "9,00€",
+    "sourcePrice": "9,00€",
+    "labels": [
+      "vegetarisch"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Dessert",
+    "name": "Schwarzwälder Kirsch Tiramisu",
+    "description": "Kirsche I Mascarpone I Nuss-Öl – vegetarisch",
+    "price": "8,00€",
+    "sourcePrice": "8,00€",
+    "labels": [
+      "vegetarisch"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Dessert",
+    "name": "Affogato",
+    "description": "Espresso | eine Kugel Vanille Eis – vegetarisch",
+    "price": "6,00€",
+    "sourcePrice": "6,00€",
+    "labels": [
+      "vegetarisch"
+    ],
+    "variant": null
+  },
+  {
+    "category": "Dessert",
+    "name": "Hausgemachtes Eis",
+    "description": "wechselnde Sorten – vegetarisch",
+    "price": "3€ / Kugel",
+    "sourcePrice": "3€ / Kugel",
+    "labels": [
+      "vegetarisch"
+    ],
+    "variant": "pro Kugel"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "name": "Landgasthof König von Preußen",
+  "city": "Helsa",
+  "street": "Leipziger Straße 53",
+  "postalCode": "34298",
+  "email": "info@kvp-helsa.de",
+  "phone": "+4915129419176",
+  "phoneDisplay": "+49 151 29419176",
+  "phoneHours": "Täglich 12–18 Uhr",
+  "restaurantHours": [
+    [
+      "Montag / Dienstag",
+      "Ruhetage"
+    ],
+    [
+      "Mittwoch / Donnerstag",
+      "17–22 Uhr"
+    ],
+    [
+      "Freitag / Samstag",
+      "17–24 Uhr"
+    ],
+    [
+      "Sonntag",
+      "12–14 Uhr und 17–22 Uhr"
+    ]
+  ],
+  "kitchen": "An Öffnungstagen bis 20:30 Uhr. Sonntags zwischen 14 und 17 Uhr keine warme Küche.",
+  "checkIn": "14–22 Uhr",
+  "checkOut": "bis 11 Uhr",
+  "rooms": 10,
+  "operator": "Egert GmbH",
+  "register": "Amtsgericht Kassel HRB 19738",
+  "directors": [
+    "Tim Egert",
+    "Piet Egert"
+  ],
+  "source": "https://kvp-helsa.de/",
+  "retrieved": "2026-11-08",
+  "sourceDateLabel": "08.11.2026",
+  "sourceDateLong": "8. November 2026",
+  "responsibleEditor": "Tim Egert"
+}

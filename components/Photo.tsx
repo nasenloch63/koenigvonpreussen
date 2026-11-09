@@ -1,0 +1,1 @@
+import Image from 'next/image';import {media} from '@/lib/content';export function Photo({id,priority=false}:{id:keyof typeof media;priority?:boolean}){const m=media[id];return <div className={'photo photo-'+id}><Image src={m.src} alt={m.alt} fill priority={priority} sizes="(max-width:760px) 100vw, 55vw" /></div>}

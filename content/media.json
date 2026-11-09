@@ -1,0 +1,62 @@
+{
+  "haus": {
+    "src": "/media/haus.webp",
+    "alt": "Historisches Fachwerk des Landgasthofs in Helsa",
+    "width": 1600,
+    "height": 1066
+  },
+  "restaurant": {
+    "src": "/media/restaurant.webp",
+    "alt": "Gedeckter Tisch im Restaurant in Helsa",
+    "width": 1147,
+    "height": 863
+  },
+  "bar": {
+    "src": "/media/bar.webp",
+    "alt": "Bar im König von Preußen in Helsa",
+    "width": 683,
+    "height": 1024
+  },
+  "biergarten": {
+    "src": "/media/biergarten.webp",
+    "alt": "Biergarten des Landgasthofs in Helsa",
+    "width": 800,
+    "height": 533
+  },
+  "hotel": {
+    "src": "/media/hotel.webp",
+    "alt": "Hotelzimmer im historischen Fachwerkhaus",
+    "width": 1199,
+    "height": 850
+  },
+  "gastgeber": {
+    "src": "/media/gastgeber.webp",
+    "alt": "Tim und Piet Egert in Helsa",
+    "width": 820,
+    "height": 1205
+  },
+  "suppe": {
+    "src": "/media/suppe.webp",
+    "alt": "Gericht aus der Originalfotografie des Landgasthofs",
+    "width": 1067,
+    "height": 1600
+  },
+  "gericht": {
+    "src": "/media/gericht.webp",
+    "alt": "Teller aus der Originalfotografie des Landgasthofs",
+    "width": 1067,
+    "height": 1600
+  },
+  "dessert": {
+    "src": "/media/dessert.webp",
+    "alt": "Dessert im Landgasthof",
+    "width": 756,
+    "height": 1008
+  },
+  "historie": {
+    "src": "/media/historie.webp",
+    "alt": "Historische Aufnahme des König von Preußen",
+    "width": 572,
+    "height": 381
+  }
+}
